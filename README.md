@@ -101,5 +101,6 @@ Let's discuss - but also, you have the code, go on and have fun, then perhaps ra
 ## Credits
 
 Thanks to Linux for being open source and to:
-- [firejail](https://firejail.wordpress.com/) For [not working as expected](https://superuser.com/questions/1155653/is-it-expected-that-firejail-allows-r-w-outside-of-the-sandbox-without-overla), being complex and thus inspiring me to write a simpler applet
+- [firejail](https://firejail.wordpress.com/) for [not working as expected](https://superuser.com/questions/1155653/is-it-expected-that-firejail-allows-r-w-outside-of-the-sandbox-without-overla), being complex and thus inspiring me to write a simpler applet
 - [overlay-fs](https://www.kernel.org/doc/Documentation/filesystems/overlayfs.txt) For making this happen
+- [Linux namespaces](http://man7.org/linux/man-pages/man7/namespaces.7.html) for making this happen (x2)
